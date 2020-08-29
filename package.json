@@ -1,0 +1,23 @@
+{
+  "name": "jsonlib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huyenvu17/typescript-basic.git"
+  },
+  "author": "huyenvu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huyenvu17/typescript-basic/issues"
+  },
+  "homepage": "https://github.com/huyenvu17/typescript-basic#readme"
+}
